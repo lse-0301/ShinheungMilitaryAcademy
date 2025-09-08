@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: abc00000000009280594279749711665
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272025
+  packageName: NHA - Naganeupseong Walled Town, Suncheon
+  packageVersion: 1.0
+  assetPath: Assets/Naganeupseong/Resource/Meshes/Ground/SM_Ground01a.fbx
+  uploadId: 637221
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable:
@@ -45,8 +52,6 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -77,7 +82,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 0
     fileIdsGeneration: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 0
@@ -136,10 +141,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 272025
-  packageName: NHA - Naganeupseong Walled Town, Suncheon
-  packageVersion: 1.0
-  assetPath: Assets/Naganeupseong/Resource/Meshes/Ground/SM_Ground01a.fbx
-  uploadId: 637221
